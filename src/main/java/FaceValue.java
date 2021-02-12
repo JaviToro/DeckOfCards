@@ -1,4 +1,4 @@
-public enum FaceValue {
+public enum FaceValue { //Values in the poker deck
     ACE,
     TWO,
     THREE,

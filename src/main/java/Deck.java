@@ -34,7 +34,7 @@ public class Deck {
         }
     }
 
-    public Card dealOneCard() { //A dealing method that will deal the top card of the deck
+    public Card dealOneCard() { //A method that will deal the top card of the deck
         if (this.isEmpty()) { //Checks if the deck is empty
             throw new IllegalArgumentException("The deck is currently empty. No more cards to deal.");
         } else { //If not, deals the top card and reduces the deck size

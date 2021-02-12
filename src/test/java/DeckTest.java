@@ -1,6 +1,6 @@
 public class DeckTest {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { //Testing the cases mentioned in the assignment
         System.out.println("Creating a new deck.");
         Deck deck = new Deck();
 

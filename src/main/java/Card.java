@@ -1,4 +1,4 @@
-public class Card {
+public class Card { //A poker card
 
     private FaceValue faceValue;
     private Suit suit;
@@ -25,7 +25,7 @@ public class Card {
     }
 
     @Override
-    public String toString() {
+    public String toString() { //A rewritten method to convert the enum into numerical string values
         String value = "";
         switch (faceValue) {
             case ACE:
