@@ -9,3 +9,10 @@ Shuffle returns no value, but results in the cards in the deck being randomly pe
 
 ### dealOneCard() 
 This function returns one card from the deck to the caller. If the caller makes a call dealOneCard() to an empty deck, then no card is dealt.
+
+## License
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+This content is shared under the CreativeCommons Attribution-ShareAlike 4.0 license.
+
+## Authors
+© 2021 Javi Toro.
